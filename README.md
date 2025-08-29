@@ -1,9 +1,7 @@
-# python-cafe-menu-system
-Python restaurant menu, Python cafe order system, Python billing program, Python beginner project, Python food ordering app
 # Python Cafe Order System
-
 An interactive Python program simulating a cafe or restaurant ordering system. Users can view the menu, place multiple orders, and calculate the total bill automatically. This project is ideal for beginners to learn Python dictionaries, loops, conditionals, and user input handling.
 
+Python restaurant menu, Python cafe order system, Python billing program, Python beginner project, Python food ordering app
 ## Features
 - Display a cafe menu with prices
 - Accept multiple item orders
